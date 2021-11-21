@@ -31,23 +31,43 @@ Dataset Columns
 Some features are available on the FIFA ranking page [Link (Links to an external site.)].
 
 Rank
+
 Country Abbreviation
+
 Total Points
+
 Previous Points
+
 Rank Change
+
 Average Previous Years Points
+
 Average Previous Years Points Weighted (50%)
+
 Average 2 Years Ago Points
+
 Average 2 Years Ago Points Weighted (30%)
+
 Average 3 Years Ago Points
+
 Average 3 Years Ago Points Weighted (20%)
+
 Confederation
+
 Date - date of the match
+
 Home_team - the name of the home team
+
 Away_team - the name of the away team
+
 Home_score - full-time home team score including extra time, not including penalty-shootouts
+
 Away_score - full-time away team score including extra time, not including penalty-shootouts
+
 Tournament - the name of the tournament
+
 City - the name of the city/town/administrative unit where the match was played
+
 Country - the name of the country where the match was played
+
 Neutral - TRUE/FALSE column indicating whether the match was played at a neutral venue
